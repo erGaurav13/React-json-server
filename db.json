@@ -1,0 +1,33 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "Tata",
+      "email": 2019,
+      "password": "Manual",
+      "Task": []
+      
+    } 
+    
+  ],
+  "wishlisted_cars": [
+    {
+      "id": 1,
+      "brand": "Tata",
+      "year": 2019,
+      "type": "Manual",
+      "kms": 10000,
+      "Description": "Tata Altroz with all original documents",
+      "Price": 500000
+    },
+    {
+        "id": 2,
+        "brand": "maruti",
+        "year": 2019,
+        "type": "Manual",
+        "kms": 10000,
+        "Description": "maruti Altroz with all original documents",
+        "Price": 900000
+      }
+  ]
+}
