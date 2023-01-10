@@ -39,10 +39,17 @@
       "gender": "Male"
     },
     {
-      "id": 1,
+      "id": 2,
       "name": "Tommy",
       "age": 3,
       "place": "Banglore",
+      "gender": "Female"
+    },
+    {
+      "id": 3,
+      "name": "Rommy",
+      "age": 3,
+      "place": "Kanglore",
       "gender": "Female"
     }
   ]
